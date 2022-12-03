@@ -18,7 +18,7 @@ Contents
 
 .. toctree::
 
-   Færstegangs Crew
+   Førstegangs Crew
    Sette opp IPX
 
 
