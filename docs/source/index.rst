@@ -19,7 +19,7 @@ Contents
 .. toctree::
 
    Førstegangs Crew
-   Sette opp IPX
+   
 
 
 
