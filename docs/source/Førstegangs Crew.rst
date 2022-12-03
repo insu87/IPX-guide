@@ -1,4 +1,7 @@
 Førstegangs Crew
 ================
 
-.. Itroduksjon:
+.. Introduksjon:
+
+Introduksjon
+------------
