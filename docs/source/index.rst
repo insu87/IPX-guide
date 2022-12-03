@@ -1,13 +1,13 @@
-Welcome to IPX documentation!
+Welcome to Lumache's documentation!
 ===================================
 
-**IPX-Guide** Er ein guide for IPX sitt crew.
-Poenget med guiden er att dei som er crew skal få informasjonen dei treng,
-og ha lett tilgang til dokumentasjonen via docs.
+**Lumache** (/lu'make/) is a Python library for cooks and food lovers
+that creates recipes mixing random ingredients.
+It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
+and offers a *simple* and *intuitive* API.
 
-Guiden blir oppdatert og endra av IPX Admins.
-Sjekk ut :doc:`Førstegangs Crew` seksjonen for meir info, inkludert
-Hvordan :ref:`Sette opp` IPX.
+Check out the :doc:`usage` section for further information, including
+how to :ref:`installation` the project.
 
 .. note::
 
@@ -18,9 +18,5 @@ Contents
 
 .. toctree::
 
-   Førstegangs Crew
-   
-
-
-
-IPX-Guide has its documentation hosted on Read the Docs.
+   usage
+   api
