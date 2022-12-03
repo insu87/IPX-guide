@@ -3,7 +3,7 @@ Welcome to IPX documentation!
 
 **IPX-Guide** Er ein guide for IPX sitt crew.
 Poenget med guiden er att dei som er crew skal få informasjonen dei treng,
-og ha lett tilgang til dokumentasjonen via git.
+og ha lett tilgang til dokumentasjonen via docs.
 
 Guiden blir oppdatert og endra av IPX Admins.
 Sjekk ut :doc:`Førstegangs Crew` seksjonen for meir info, inkludert
